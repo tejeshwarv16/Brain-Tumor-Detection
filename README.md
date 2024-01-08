@@ -9,3 +9,5 @@ use brats 3d 10 epochs file. and start training train for than 60 epochs (more 5
 train in batches every batch should have 10 epoch.
 
 save the hdf5 files after each training in my drive in google drive. save it in the shared folder. 
+
+40 epochs are completed and the hdf5 file is saved as version 4 in gdrive
